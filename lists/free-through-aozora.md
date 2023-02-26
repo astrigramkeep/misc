@@ -1,5 +1,7 @@
 # 十代の君へ
 
+作品は青空文庫のサイトに見つけたら是非githubでリンクをお教えて下さい。 アマゾンでも無料に読めるよ。
+
 ## まごころ、お届けいたします。
 - [豊島与志雄  キンショキショキ](https://www.aozora.gr.jp/cards/000906/card42630.html)
 - [竹久夢二  日輪草](https://www.aozora.gr.jp/cards/000212/card46427.html)
