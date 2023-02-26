@@ -5,9 +5,9 @@
 
 [龍文鞭影（四字-四字）csv](anki/longwenbianying-44.csv)
 
-[龍文鞭影（八字-八字）](anki/longwenbianying-88.csv)
+[龍文鞭影（八字-八字）csv](anki/longwenbianying-88.csv)
 
-[龍文鞭影（八字-韻）](anki/longwenbianying-8yun.csv)
+[龍文鞭影（八字-韻）csv](anki/longwenbianying-8yun.csv)
 
 [聲律啓蒙（句）anki](anki/聲律啓蒙（句）.apkg)
 
