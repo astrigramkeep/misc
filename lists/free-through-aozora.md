@@ -144,7 +144,7 @@
 - 獅子文六 塩百姓
 - 谷崎潤一郎 小さな王国 aozora作業中
 - 星新一 マネー・エイジ
-- 太宰治 貧の意地
+- [太宰治 貧の意地](https://www.aozora.gr.jp/cards/000035/card2269.html)
 - 中戸川吉二 寝押
 - [林芙美子 清貧の書](https://www.aozora.gr.jp/cards/000291/card1816.html)
 - [室生犀星 陶古の女人](https://www.aozora.gr.jp/cards/001579/card53499.html)
