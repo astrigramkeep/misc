@@ -10,6 +10,8 @@
 ## 日本語
 [青空文庫で無料になるシリーズ](lists/free-through-aozora.md)
 
+[愚作](haiku.md)
+
 ## English
 [Daitoryu-Aikijujutsu (大東流合気柔術) dojo list](lists/daitoryu-dojolist.csv)
 
