@@ -7,4 +7,5 @@
 
 ## 日本語
 [青空文庫で無料になるシリーズ](lists/free-through-aozora.md)
+
 [世界の大東流合気柔術の道場](list/daitoryu-dojolist.csv)
