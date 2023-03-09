@@ -11,6 +11,6 @@
 [青空文庫で無料になるシリーズ](lists/free-through-aozora.md)
 
 ## English
-[Daitoryu-Aikijujutsu (大東流合気柔術) dojo list](list/daitoryu-dojolist.csv)
+[Daitoryu-Aikijujutsu (大東流合気柔術) dojo list](lists/daitoryu-dojolist.csv)
 
-[reading list](list/reading-list.md)
+[reading list](lists/reading-list.md)
