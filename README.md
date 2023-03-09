@@ -5,6 +5,8 @@
 
 [《聲律啓蒙》及《龍文鞭影》Anki記憶卡](anki/chinese-anki.md)
 
+[免費中文epub電子書](epub/chinese-epub.md)
+
 ## 日本語
 [青空文庫で無料になるシリーズ](lists/free-through-aozora.md)
 
