@@ -1,112 +1,112 @@
 <style>
-@media (prefers-color-scheme: dark) {
-	:root {  
-    --c2:#1d4770;
-    --c3:#0e2439;
-    --c4:#b9c9da;
+	@media (prefers-color-scheme: dark) {
+		:root {  
+	    --c2:#1d4770;
+	    --c3:#0e2439;
+	    --c4:#b9c9da;
+		}
 	}
-}
-/* Basic.css  */
+	/* Basic.css  */
 
-* {box-sizing: border-box}
+	* {box-sizing: border-box}
 
-:root{
---sans: 1em/1.6 system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Droid Sans, Helvetica Neue, Fira Sans, sans-serif;
---mono: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, Courier, 'Courier New', monospace;
---c1:#0074d9;
---c2:#eee;
---c3:#fff;
---c4:#000;
---c5:#fff;
---m1: 8px;
---rc: 8px;
-}
-
-@media (prefers-color-scheme: dark) {
-	:root {
-    --c2:#333;
-    --c3:#1e1f20;
-    --c4:#fff;
+	:root{
+	--sans: 1em/1.6 system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Droid Sans, Helvetica Neue, Fira Sans, sans-serif;
+	--mono: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, Courier, 'Courier New', monospace;
+	--c1:#0074d9;
+	--c2:#eee;
+	--c3:#fff;
+	--c4:#000;
+	--c5:#fff;
+	--m1: 8px;
+	--rc: 8px;
 	}
-}
 
-html {
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
+	@media (prefers-color-scheme: dark) {
+		:root {
+	    --c2:#333;
+	    --c3:#1e1f20;
+	    --c4:#fff;
+		}
+	}
 
-}
+	html {
+	    -ms-text-size-adjust: 100%;
+	    -webkit-text-size-adjust: 100%;
 
-/* General settings */
+	}
 
-body {
-    margin: 0;
-    font: var(--sans);
-    font-weight: 400;
-    font-style: normal;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    background-color: var(--c3);
-    color: var(--c4);
-}
-img, iframe {border: none; max-width: 100%}
+	/* General settings */
 
-a {color: var(--c1);  text-decoration:none}
+	body {
+	    margin: 0;
+	    font: var(--sans);
+	    font-weight: 400;
+	    font-style: normal;
+	    text-rendering: optimizeLegibility;
+	    -webkit-font-smoothing: antialiased;
+	    background-color: var(--c3);
+	    color: var(--c4);
+	}
+	img, iframe {border: none; max-width: 100%}
 
-a:hover {color: var(--c1); text-decoration: underline}
+	a {color: var(--c1);  text-decoration:none}
 
-pre {font: 1em/1.6 var(--mono); background: var(--c2); padding: 1em; overflow: auto}
+	a:hover {color: var(--c1); text-decoration: underline}
 
-code {font: 1em/1.6 var(--mono);}
+	pre {font: 1em/1.6 var(--mono); background: var(--c2); padding: 1em; overflow: auto}
 
-blockquote {border-left: 5px solid var(--c2); padding: 1em 1.5em; margin: 0}
+	code {font: 1em/1.6 var(--mono);}
 
-hr {border:0; border-bottom: 1px solid var(--c4)}
+	blockquote {border-left: 5px solid var(--c2); padding: 1em 1.5em; margin: 0}
 
- /* Headlines */
+	hr {border:0; border-bottom: 1px solid var(--c4)}
 
-h1,h2,h3,h4,h5,h6 {margin: 0.6em 0; font-weight: normal}
+	 /* Headlines */
 
-h1 {font-size: 2.625em; line-height: 1.2}
+	h1,h2,h3,h4,h5,h6 {margin: 0.6em 0; font-weight: normal}
 
-h2 {font-size: 1.625em; line-height: 1.2}
+	h1 {font-size: 2.625em; line-height: 1.2}
 
-h3 {font-size: 1.3125em; line-height: 1.24}
+	h2 {font-size: 1.625em; line-height: 1.2}
 
-h4 {font-size: 1.1875em; line-height: 1.23}
+	h3 {font-size: 1.3125em; line-height: 1.24}
 
-h5,h6 {font-size: 1em; font-weight:bold}
+	h4 {font-size: 1.1875em; line-height: 1.23}
 
-/* Table */
+	h5,h6 {font-size: 1em; font-weight:bold}
 
-table {border-collapse: collapse; border-spacing: 0; margin:1em 0}
+	/* Table */
 
-th, td {text-align: left; vertical-align: top; border: 1px solid; padding: 0.4em}
+	table {border-collapse: collapse; border-spacing: 0; margin:1em 0}
 
-thead,tfoot {background: var(--c2)}
+	th, td {text-align: left; vertical-align: top; border: 1px solid; padding: 0.4em}
 
-/* Rounded Corners*/
+	thead,tfoot {background: var(--c2)}
 
-pre,code,input,select,textarea,button,img {border-radius: var(--rc)}
+	/* Rounded Corners*/
+
+	pre,code,input,select,textarea,button,img {border-radius: var(--rc)}
 
 
-/* Forms */
+	/* Forms */
 
-input, select, textarea {font-size: 1em; color:var(--c4); background: var(--c2); border: 0; padding: 0.6em}
+	input, select, textarea {font-size: 1em; color:var(--c4); background: var(--c2); border: 0; padding: 0.6em}
 
-button, input[type=submit], input[type=reset], input[type="button"] { -webkit-appearance: none; font-size: 1em; display: inline-block; color: var(--c5); background: var(--c1);  border: 0; margin: 4px;  padding: 0.6em; cursor: pointer; text-align: center}
+	button, input[type=submit], input[type=reset], input[type="button"] { -webkit-appearance: none; font-size: 1em; display: inline-block; color: var(--c5); background: var(--c1);  border: 0; margin: 4px;  padding: 0.6em; cursor: pointer; text-align: center}
 
-button:hover, button:focus, input:hover, textarea:hover, select:hover {opacity: 0.8}
+	button:hover, button:focus, input:hover, textarea:hover, select:hover {opacity: 0.8}
 
-/* Infinite Grid */
+	/* Infinite Grid */
 
-section {display: flex; flex-flow: row wrap}
+	section {display: flex; flex-flow: row wrap}
 
-[style*="--c:"], section>section, aside, article {flex:var(--c,1); margin:var(--m1)}
+	[style*="--c:"], section>section, aside, article {flex:var(--c,1); margin:var(--m1)}
 
-/* Cards */
+	/* Cards */
 
-article {background: var(--c2); border-radius: var(--rc); padding: 1em; box-shadow: 0px 1px 0px rgba(0,0,0,0.3)}
+	article {background: var(--c2); border-radius: var(--rc); padding: 1em; box-shadow: 0px 1px 0px rgba(0,0,0,0.3)}
 
-[style*="--c:"]:first-child, section>section:first-child, article:first-child {margin-left:0}
-[style*="--c:"]:last-child, section>section:last-child, article:last-child {margin-right:0}
+	[style*="--c:"]:first-child, section>section:first-child, article:first-child {margin-left:0}
+	[style*="--c:"]:last-child, section>section:last-child, article:last-child {margin-right:0}
 </style>
